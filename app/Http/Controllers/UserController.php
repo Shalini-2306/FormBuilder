@@ -9,7 +9,7 @@ use Spatie\Permission\Models\Role;
 use DB;
 use Hash;
 use Illuminate\Support\Arr;
-use App\models\FormSubmission;
+use App\Models\FormSubmission;
     
 class UserController extends Controller
 {

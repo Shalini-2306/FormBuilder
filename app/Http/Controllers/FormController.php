@@ -3,9 +3,9 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use App\models\DynamicForm;
-use App\models\FormSubmission;
-use App\models\FormRecord;
+use App\Models\DynamicForm;
+use App\Models\FormSubmission;
+use App\Models\FormRecord;
 use Auth;
 
 class FormController extends Controller

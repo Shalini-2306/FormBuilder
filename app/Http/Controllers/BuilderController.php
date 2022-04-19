@@ -4,7 +4,7 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Auth;
-use App\models\DynamicForm;
+use App\Models\DynamicForm;
 
 class BuilderController extends Controller
 {
